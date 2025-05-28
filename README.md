@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm PerPouh（ぱあぷう）</h1>
 <h3 align="center">A developer at Sendai, Japan</h3>
 
+![strength_finder](https://github.com/user-attachments/assets/04e0a05f-123d-450c-9bbb-756f85c69ea3)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=perpouh" alt="perpouh" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perpouh&show_icons=true&locale=en" alt="perpouh" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=perpouh&" alt="perpouh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perpouh&show_icons=true&locale=en&layout=compact" alt="perpouh" /></p>  
+
 
 ## 🧰 現在までのスキル・経験（What I Can Do）
 
@@ -40,22 +44,6 @@
 ### 🔮 今後やりたいこと（Wish List）
 - インフラ知識の補強
 - CI/CD の強化（デプロイ連携、監視・ロギングまで）
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>構築はたどたどしい<br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>基本操作は一通り<br>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>基本操作は一通り<br>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>歴は長いもののレビュー文化のある場所で書いたことがない<br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>個人利用のみ<br>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>レビュー文化のある場所で書いているのでそこそこ<br>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>Rails抜きではあまり書いていない<br>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>書けるけど書けるだけ
-</p>
-
-<p>→何もかも中途半端なので軸足を固めてリスキリング中！</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perpouh&show_icons=true&locale=en&layout=compact" alt="perpouh" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/perpouh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="perpouh" /></a></p><br><br>
